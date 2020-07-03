@@ -1,2 +1,3 @@
 Este es el archivo de prueba
 Desde Master le añado esta línea, para ver como reacciona cuando haga merge con la branch creada
+Ahora le añado una linia desde la Branch1
